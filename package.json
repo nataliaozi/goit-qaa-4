@@ -1,0 +1,23 @@
+{
+  "name": "modul-4-github",
+  "version": "1.0.0",
+  "description": "Moduł 4 Testing HTTP API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nataliaozi/goit-qaa-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nataliaozi/goit-qaa-4/issues"
+  },
+  "homepage": "https://github.com/nataliaozi/goit-qaa-4#readme",
+  "devDependencies": {
+    "cypress": "^14.4.0"
+  }
+}
